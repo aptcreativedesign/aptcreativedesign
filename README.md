@@ -37,17 +37,13 @@ I have only recently set up my npm.js and packagist accounts, they do not curren
 
 ### Current coding setup
 
-[![macOS](https://img.shields.io/static/v1?message=macOS&logo=macOS&labelColor=000000&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
+I code everyday on my MacBook Pro, setup to run a local web server using Homebrew. My IDE of choice is PHPstorm however if we were to just be going for freely available IDE's I would highly suggest using Microsofts Visual Studio Code. And for my day to day text edting needs I use the wonderful Sublime Text editor.
 
-[![Homebrew](https://img.shields.io/static/v1?message=Homebrew&logo=Homebrew&labelColor=FBB040&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
+Whenever I need to check out any API's or test my own developed endpoints Postman is my go to tool for this and you really have to hand it to the developers of this great piece of software, it'e easy to use and the free version covers almost all use cases.
 
-[![PhpStorm](https://img.shields.io/static/v1?message=PhpStorm&logo=PhpStorm&labelColor=b744f0&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
+[![macOS](https://img.shields.io/static/v1?message=macOS&logo=macOS&labelColor=000000&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/) &nbsp;&nbsp; [![Homebrew](https://img.shields.io/static/v1?message=Homebrew&logo=Homebrew&labelColor=FBB040&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
 
-[![Visual Studio Code](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&labelColor=007ACC&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
-
-[![Sublime Text](https://img.shields.io/static/v1?message=Sublime%20Text&logo=Sublime%20Text&labelColor=FF9800&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
-
-[![Postman](https://img.shields.io/static/v1?message=Postman&logo=Postman&labelColor=FF6C37&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
+[![PhpStorm](https://img.shields.io/static/v1?message=PhpStorm&logo=PhpStorm&labelColor=b744f0&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/) &nbsp;&nbsp; [![Visual Studio Code](https://img.shields.io/static/v1?message=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&labelColor=007ACC&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/) &nbsp;&nbsp; [![Sublime Text](https://img.shields.io/static/v1?message=Sublime%20Text&logo=Sublime%20Text&labelColor=FF9800&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/) &nbsp;&nbsp; [![Postman](https://img.shields.io/static/v1?message=Postman&logo=Postman&labelColor=FF6C37&color=white&logoColor=white&label=%20&style=for-the-badge)](https://laravel.com/)
 
 
 
