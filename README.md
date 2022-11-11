@@ -2,7 +2,7 @@
 const Adam_Thomas = {
   pronouns: "he" | "him",
   location: "UK",
-  position: "Lead developer and effective CTO at Genius Money and V3 Recruitment",
+  position: "Senior Developer @ WeBuyAnyPhone",
   code: ["JavaScript", "PHP", "HTML", "CSS", "SQL"],
   askMeAbout: ["web dev", "tech"],
   architecture: ["microservices and/or monolithic", "Progressive web applications" "Single page applications"], 
