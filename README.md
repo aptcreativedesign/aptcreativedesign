@@ -1,20 +1,19 @@
 ```javascript
 const Adam_Thomas = {
   pronouns: "he" | "him",
+
   location: "UK",
   position: "Senior Developer @ WeBuyAnyPhone",
-  code: ["JavaScript", "PHP", "HTML", "CSS", "SQL"],
-  askMeAbout: ["web dev", "tech"],
-  architecture: ["microservices and/or monolithic", "Progressive web applications" "Single page applications"], 
+
   technologies: {
     backEnd: {
-      php: ["Laravel", "PHP 7.4", "PHP 8"],
+      php: ["Laravel", "Livewire"],
     },
     frontEnd {
-      javascript: ["Vue.js", "Vanilla", "ES6", "jQuery"],
+      javascript: ["Alpine.js", "Vanilla", "ES6", "jQuery"],
     },
     devOps: ["Nginx", "Apache", "Docker"],
-    databases: ["MySql", "SQL server", "PostgreSQL"],
+    databases: ["Mongo", "MySql", "SQL server", "PostgreSQL"],
     misc: ["Firebase", "Pusher"],
   }
 }
