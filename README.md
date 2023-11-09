@@ -20,8 +20,6 @@ const Adam_Thomas = {
 }
 ```
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aptcreativedesign)](https://github.com/aptcreativedesign/aptcreativedesign)
-
 ## Social & Coding Profiles
 
 I'm not the most active on social media as I feel that you can end up spending to much of your life endlessly scrolling and achieving nothing with your time.
