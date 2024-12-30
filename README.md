@@ -13,8 +13,7 @@ const Adam_Thomas = {
       javascript: ["Alpine.js", "Vanilla", "ES6", "jQuery"],
     },
     devOps: ["Nginx", "Apache", "Docker"],
-    databases: ["Mongo", "MySql", "SQL server", "PostgreSQL"],
-    misc: ["Firebase", "Pusher"],
+    databases: ["Mongo", "MySql", "SQL server", "PostgreSQL"]
   }
 }
 ```
